@@ -35,6 +35,7 @@ jobs:
             This is an automated release, it have not been tested yet.
             This release will trigger whenever a Git push happens to the project.
             It will also upload an artifact. But artifacts require an GitHub account.
+            Build Type: Beta Builds
           generate_release_notes: true
         env:
           GITHUB_REPOSITORY: MediumCraft/KronHUD
